@@ -2,4 +2,6 @@
 
 == Annual Reports
 
-- 
+- https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf
+- https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020OverWatchNowheretoHide.pdf
+- https://www.checkpoint.com/downloads/products/2018-security-report.pdf
